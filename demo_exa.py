@@ -1,6 +1,4 @@
 from tools.exa_tool import exa_search, exa_content, exa_find_similar_links
-import json
-from pprint import pprint
 
 def demo_exa_search():
     print("\n=== Demonstrating exa_search ===")
