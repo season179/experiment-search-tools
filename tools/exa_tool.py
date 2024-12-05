@@ -74,7 +74,7 @@ def exa_search(
 
     headers = {"x-api-key": api_key, "Content-Type": "application/json"}
 
-    response = requests.request("POST", url, json=payload, headers=headers)
+    response = requests.request("POST", url, json=payload, headers=headers, timeout=60)
     return response.json()
 
 
@@ -123,7 +123,7 @@ def exa_content(
 
     headers = {"x-api-key": api_key, "Content-Type": "application/json"}
 
-    response = requests.request("POST", url, json=payload, headers=headers)
+    response = requests.request("POST", url, json=payload, headers=headers, timeout=60)
     return response.json()
 
 
@@ -214,5 +214,5 @@ def exa_find_similar_links(
 
     headers = {"x-api-key": api_key, "Content-Type": "application/json"}
 
-    response = requests.request("POST", url_endpoint, json=payload, headers=headers)
+    response = requests.request("POST", url_endpoint, json=payload, headers=headers, timeout=60)
     return response.json()
