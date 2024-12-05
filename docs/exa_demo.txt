@@ -1,0 +1,68 @@
+=== Demonstrating exa_search ===
+Search Results:
+
+Title: Workers are paying to get part of their paychecks early. It's 'payday lending on steroids,' one expert says
+URL: https://www.cnbc.com/2024/01/28/why-one-expert-called-earned-wage-access-payday-lending-on-steroids.html
+Summary: Earned wage access (EWA) programs allow low-income workers to access a portion of their paycheck early, potentially mitigating financial hardship between paydays.  While offering benefits like emergency fund access,  experts warn of potential downsides.  High fees can lead to interest rates as high as 400%, effectively turning EWA into "payday lending on steroids," especially with overuse.  The increased popularity of EWA, fueled by the pandemic and inflation, highlights a need for careful consideration of its potential costs and benefits for low-income individuals.
+
+--------------------------------------------------------------------------------
+
+Title: How Earned Wage Access Can Upend Predatory Lending And Build Employee Financial Wellness
+URL: https://www.forbes.com/sites/christophermarquis/2021/02/05/how-earned-wage-access-can-upend-predatory-lending-and-build-employee-financial-wellness/?sh=766f0ed4e10c
+Summary: Earned Wage Access (EWA) allows low-income workers to access their earned wages before payday, helping them avoid predatory payday loans with high interest rates.  This prevents them from falling into a cycle of debt and improves their financial well-being.  EWA is offered through apps like Payactiv, which integrate with employers' payroll systems.  The key is that it's access to *earned* wages, not an advance or loan, and the employer is a key part of the solution.  The CFPB has recognized EWA as distinct from credit, exempting it from federal lending laws.
+
+--------------------------------------------------------------------------------
+
+Title: The number of low-wage U.S. workers is dropping—but 23% still make less than $17/hr
+URL: https://www.cnbc.com/2024/07/23/oxfam-report-low-wage-workers-still-make-up-23percent-of-us-workers.html
+Summary: This article focuses on the number of low-wage U.S. workers and doesn't discuss earned wage access (EWA).  Therefore, I cannot provide a summary addressing how EWA helps low-income workers' financial well-being based on this article.  The text primarily discusses the decrease in the number of workers earning less than $17/hour due to state minimum wage increases and changes to tipped minimum wages,  as well as the ongoing advocacy for a higher federal minimum wage.
+
+--------------------------------------------------------------------------------
+
+=== Demonstrating exa_content ===
+Content Details:
+
+Title: What Is Earned Wage Access?
+URL: https://www.nerdwallet.com/article/loans/personal-loans/what-is-earned-wage-access
+Highlights:
+- Transfers usually take one to three business days, but employees can transfer funds immediately for no fee or a fee of $1.99 or $2.99, depending on how you receive the funds and whether you have direct deposit set up. DailyPay   decides how much of your earnings you can have deposited when you make a request.
+- Link a bank account or debit card where the funds can be sent. Set up direct deposit, in some cases, to either qualify or lower transfer fees.
+- Companies like Walmart, Amazon and McDonald’s offer EWA as part of their benefits. Fees are often a few dollars, and you can receive the money within a day or two — or instantly, for a fee.
+--------------------------------------------------------------------------------
+
+Title: CalWORKs
+URL: https://www.sfhsa.org/services/financial-assistance/calworks
+Highlights:
+- More information about the benefits that may be available to families eligible for CalWORKs. Learn more about the CalWORKs application process and how to apply.
+- Learn more about the CalWORKs application process and how to apply. To maintain your CalWORKs benefit you'll need to submit benefit renewal reports each year.
+- To maintain your CalWORKs benefit you'll need to submit benefit renewal reports each year.
+--------------------------------------------------------------------------------
+
+=== Demonstrating exa_find_similar_links ===
+Finding similar articles to: https://www.even.com/resources/earned-wage-access-buying-guide
+
+Similar Articles:
+
+Title: Earned Wage Access: A Guide to the Benefit Hourly Workers Want | Even
+URL: https://www.even.com/resources/earned-wage-access-buying-guide
+Relevant Highlights:
+- Until now, employers haven’t had many options to help, since traditional financial benefits like 401(k) focus on different stages of the financial journey. Earned wage access changes that. By offering EWA as a benefit, you free your employees from the traditional pay cycle.
+- Everything you need to know about this new benefit and how it could impact your employees.
+- Why any tool to improve employee financial resilience must include proven ways to save. Everything you need to know about this new benefit and how it could impact your employees.
+--------------------------------------------------------------------------------
+
+Title: Financial Benefits for Hourly Workers: Survey Report | Even
+URL: https://www.even.com/resources/financial-benefits-for-hourly-workers
+Relevant Highlights:
+- Four years in the making, we’ve summarized our findings and recommendations on financial wellness. Everything you need to know about this new benefit and how it could impact your employees.
+- A turnkey solution for benchmarking and evaluating financial health over time. Four years in the making, we’ve summarized our findings and recommendations on financial wellness. Everything you need to know about this new benefit and how it could impact your employees.
+- Everything you need to know about this new benefit and how it could impact your employees.
+--------------------------------------------------------------------------------
+
+Title: Financial wellness guide: Employee financial health | Even
+URL: https://www.even.com/resources/guide-to-financial-wellness-and-on-demand-pay
+Relevant Highlights:
+- Four years in the making, we’ve summarized our findings and recommendations on financial wellness. Everything you need to know about this new benefit and how it could impact your employees.
+- A turnkey solution for benchmarking and evaluating financial health over time. Four years in the making, we’ve summarized our findings and recommendations on financial wellness. Everything you need to know about this new benefit and how it could impact your employees.
+- The rest of the marketplace really hasn’t caught up.” When employees are struggling financially, it’s not just bad for business — it also means they’re not set up for long-term financial stability. Employers are well positioned to help, but before doing so, they need to understand the scope.
+--------------------------------------------------------------------------------

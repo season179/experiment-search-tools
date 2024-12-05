@@ -1,0 +1,11 @@
+[project]
+name = "experiment_search"
+version = "0.1.0"
+description = "Experiment with various search tools for AI"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "exa-py>=1.7.0",
+    "python-dotenv>=1.0.1",
+    "tavily-python>=0.5.0",
+]
